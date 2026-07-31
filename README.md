@@ -186,17 +186,6 @@ Independently developing and publishing Android applications, including an AI-in
 
 ---
 
-### 🟢 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nayab-gull-it&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayab-gull-it&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" width="48%" />
-
-</div>
-
----
-
 ### 🟢 Current Focus
 
 ```yaml
