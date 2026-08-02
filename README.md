@@ -16,13 +16,19 @@
 [![Email](https://img.shields.io/badge/Email-Contact-115E59?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayabbbgull@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-134E4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayab-gull-it)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nayab-gull-it&color=0D9488&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
 ### 🟢 About Me
 
-I'm an undergraduate **BS Information Technology** student at Rawalpindi Women University (CGPA: 3.72/4.0), focused on **Android & Flutter development**, with growing full-stack experience building **AI/LLM-integrated applications**. I build Firebase-integrated mobile apps end-to-end — from UI design to backend connectivity — and I work as a **freelance Android developer**, publishing apps on the Google Play Store. I've also shipped a live, deployed full-stack AI web tool from scratch (see **Casefile** below).
+I'm an undergraduate **BS Information Technology** student at Rawalpindi Women University (CGPA: 3.72/4.0), focused on **Android & Flutter development**, with growing full-stack experience building **AI/LLM-integrated applications**. I build Firebase-integrated mobile apps end-to-end — from UI design to backend connectivity — and I work as a **freelance Android developer**, publishing apps on the Google Play Store.
+
+I've also shipped two live, deployed full-stack AI web tools from scratch: **FraudScope**, a privacy-first fraud detection tool for financial ledgers, and **Casefile**, an AI resume-intelligence platform (see below).
 
 I'm also the **first author** on an in-progress research paper applying One-Class SVM to cross-domain log anomaly detection.
 
@@ -48,9 +54,11 @@ Open To: Mobile/App Development internships, AI-integrated project work, freelan
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend, AI & Database**
+**Backend, Data & AI**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -68,6 +76,22 @@ Open To: Mobile/App Development internships, AI-integrated project work, freelan
 ### 🟢 Featured Projects
 
 <details open>
+<summary><b>🔹 FraudScope — Privacy-First Fraud Detection Tool</b></summary>
+<br/>
+
+A live, full-stack fraud/anomaly detection tool for financial ledgers. All detection math (outlier detection, duplicate/round-number/threshold-skirting checks, timing anomalies, vendor concentration) runs locally on the server with pandas/numpy — an LLM is only ever sent anonymized, aggregated statistics, never raw transaction data. Includes a consent-gated AI chatbot for report Q&A, AI narrative summaries, PDF report export, and a one-click Offline Mode that disables every external call.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, Flask, pandas, numpy, Groq LLM API, reportlab, vanilla JS/HTML/CSS |
+| Highlights | Privacy-by-design architecture, session-scoped consent for AI data access, auto column-detection with a user-confirm step, live deployment |
+| Status | 🟢 Live |
+| Live Demo | [fraud-scope.onrender.com](https://fraud-scope.onrender.com) |
+| Repository | [FraudScope](https://github.com/nayab-gull-it/FraudScope) |
+
+</details>
+
+<details>
 <summary><b>🔹 Casefile — AI-Powered Resume Intelligence Platform</b></summary>
 <br/>
 
@@ -184,6 +208,10 @@ Independently developing and publishing Android applications, including an AI-in
 
 ![Coursera](https://img.shields.io/badge/IT%20Support%20Professional%20Certificate-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
 
+**Kaggle**
+
+![Kaggle](https://img.shields.io/badge/Data%20Visualization-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
 ---
 
 ### 🟢 Current Focus
@@ -191,7 +219,7 @@ Independently developing and publishing Android applications, including an AI-in
 ```yaml
 Learning: Backend/AI system design, Android development depth
 Building: DreamScape (AI-integrated Android app), research paper on log anomaly detection
-Shipped: Casefile — a live AI resume agent, deployed end-to-end
+Shipped: FraudScope (privacy-first fraud detection tool) and Casefile (AI resume agent) — both live, deployed end-to-end
 Open To: Summer internships, AI-integrated project work, freelance mobile builds
 ```
 
