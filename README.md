@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:0F766E&height=220&section=header&text=Nayab%20Gull&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Flutter%20%7C%20AI-Integrated%20App%20Developer&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=BS+IT+Undergraduate+%7C+RWU;Flutter+%26+Android+Developer;Building+AI-Integrated+Apps+%26+Tools;Freelance+Play+Store+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=BS+IT+Undergraduate+%7C+RWU;Flutter+%26+Android+Developer;Building+AI-Integrated+Apps+%26+Tools" alt="Typing SVG" />
 
 <br/>
 
@@ -26,14 +26,14 @@
 
 ### 🟢 About Me
 
-I'm an undergraduate **BS Information Technology** student at Rawalpindi Women University (CGPA: 3.76/4.0), focused on **Android & Flutter development**, with growing full-stack experience building **AI/LLM-integrated applications**. I build Firebase-integrated mobile apps end-to-end — from UI design to backend connectivity — and I work as a **freelance Android developer**, publishing apps on the Google Play Store.
+I'm an undergraduate **BS Information Technology** student at Rawalpindi Women University (CGPA: 3.72/4.0), focused on **Android & Flutter development**, with growing full-stack experience building **AI/LLM-integrated applications**. I build Firebase-integrated mobile apps end-to-end — from UI design to backend connectivity.
 
 I've also shipped two live, deployed full-stack AI web tools from scratch: **FraudScope**, a privacy-first fraud detection tool for financial ledgers, and **Casefile**, an AI resume-intelligence platform (see below).
 
 I'm also the **first author** on an in-progress research paper applying One-Class SVM to cross-domain log anomaly detection.
 
 ```yaml
-Open To: Mobile/App Development internships, AI-integrated project work, freelance builds
+Open To: Mobile/App Development internships, AI-integrated project work
 ```
 
 ---
@@ -125,14 +125,14 @@ A live, full-stack AI web app that scores a resume against any job description, 
 <summary><b>🔹 DreamScape — AI-Integrated Android App</b></summary>
 <br/>
 
-An Android app that uses AI to interpret dream journal entries, currently in final testing phase before Play Store release.
+An Android app that uses AI to interpret dream journal entries — built end-to-end but not yet published to the Play Store.
 
 | Aspect | Detail |
 |---|---|
 | Stack | Flutter, Firebase, Gemini API |
 | Architecture | Offline-first, SQLite-based |
-| Status | Under Testing |
-| Repository | Private (pre-release) |
+| Status | Built — Not Published |
+| Repository | Private |
 
 </details>
 
@@ -191,15 +191,6 @@ Provided on-site technical and IT support during conference sessions and events.
 
 `Technical Support` `Event Operations`
 
-<br/>
-
-**Freelance Android Developer** — Google Play Store
-*2026 – Present*
-
-Independently developing and publishing Android applications, including an AI-integrated app currently under testing.
-
-`Android` `Flutter` `Independent Development`
-
 ---
 
 ### 🟢 Achievements
@@ -209,8 +200,8 @@ Independently developing and publishing Android applications, including an AI-in
 | Recognition | Details |
 |---|---|
 | 🏆 RWU IdeaFest — Winner | Won with teammate, presenting an innovative tech-for-good concept |
-| 📄 First Author, Research Paper | "Cross-Domain Log Anomaly Detection Using One-Class SVM" — Manuscript revised and resubmitted, 2026 |
-| 🎓 Academic Excellence | CGPA 3.76/4.0, Matric 98.9%, FSc 77.6% |
+| 📄 First Author, Research Paper | "Cross-Domain Log Anomaly Detection Using One-Class SVM" — Under Preparation, 2026 |
+| 🎓 Academic Excellence | CGPA 3.72/4.0, Matric 98.9%, FSc 77.6% |
 
 </div>
 
@@ -234,7 +225,7 @@ Independently developing and publishing Android applications, including an AI-in
 Learning: Backend/AI system design, Android development depth
 Building: DreamScape (AI-integrated Android app), research paper on log anomaly detection
 Shipped: FraudScope (privacy-first fraud detection tool) and Casefile (AI resume agent) — both live, deployed end-to-end
-Open To: Summer internships, AI-integrated project work, freelance mobile builds
+Open To: Summer internships, AI-integrated project work
 ```
 
 ---
