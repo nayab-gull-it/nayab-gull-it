@@ -26,7 +26,7 @@
 
 ### 🟢 About Me
 
-I'm an undergraduate **BS Information Technology** student at Rawalpindi Women University (CGPA: 3.72/4.0), focused on **Android & Flutter development**, with growing full-stack experience building **AI/LLM-integrated applications**. I build Firebase-integrated mobile apps end-to-end — from UI design to backend connectivity — and I work as a **freelance Android developer**, publishing apps on the Google Play Store.
+I'm an undergraduate **BS Information Technology** student at Rawalpindi Women University (CGPA: 3.76/4.0), focused on **Android & Flutter development**, with growing full-stack experience building **AI/LLM-integrated applications**. I build Firebase-integrated mobile apps end-to-end — from UI design to backend connectivity — and I work as a **freelance Android developer**, publishing apps on the Google Play Store.
 
 I've also shipped two live, deployed full-stack AI web tools from scratch: **FraudScope**, a privacy-first fraud detection tool for financial ledgers, and **Casefile**, an AI resume-intelligence platform (see below).
 
@@ -209,8 +209,8 @@ Independently developing and publishing Android applications, including an AI-in
 | Recognition | Details |
 |---|---|
 | 🏆 RWU IdeaFest — Winner | Won with teammate, presenting an innovative tech-for-good concept |
-| 📄 First Author, Research Paper | "Cross-Domain Log Anomaly Detection Using One-Class SVM" — Under Preparation, 2026 |
-| 🎓 Academic Excellence | CGPA 3.72/4.0, Matric 98.9%, FSc 77.6% |
+| 📄 First Author, Research Paper | "Cross-Domain Log Anomaly Detection Using One-Class SVM" — Manuscript revised and resubmitted, 2026 |
+| 🎓 Academic Excellence | CGPA 3.76/4.0, Matric 98.9%, FSc 77.6% |
 
 </div>
 
