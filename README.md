@@ -298,7 +298,7 @@ A unified One-Class SVM approach to detecting anomalies across three distinct sy
 | | |
 |---|---|
 | 🏆 | **RWU IdeaFest 2026 — Winner** — tech-for-good project, built with a teammate |
-| 🎓 | **CGPA 3.72/4.0** · Matric 98.9% · FSc 77.6% |
+| 🎓 | **CGPA 3.76/4.0**|
 
 **Certifications**
 
