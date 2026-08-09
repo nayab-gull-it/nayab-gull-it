@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:0F766E&height=220&section=header&text=Nayab%20Gull&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Flutter%20%7C%20AI-Integrated%20App%20Developer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:0F766E&height=220&section=header&text=Nayab%20Gull&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Flutter%20%7C%20Android%20%7C%20AI-Integrated%20App%20Developer&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=BS+IT+Undergraduate+%7C+RWU;Flutter+%26+Android+Developer;Building+AI-Integrated+Apps+%26+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=BS+IT+Undergraduate+%7C+RWU;AI%2FML+%26+Data+Science;Flutter+%26+Android+Developer;Building+AI-Integrated+Apps+%26+Tools" alt="Typing SVG" />
 
 <br/>
 
@@ -11,10 +11,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=netlify&logoColor=white)](https://nayab-gull-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D9488?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayab-gull-4a4795293)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=netlify&logoColor=white)](https://nayabgull-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D9488?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayab-gull-4a4795293/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayabgulll964)
 [![Email](https://img.shields.io/badge/Email-Contact-115E59?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayabbbgull@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-134E4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayab-gull-it)
 
 <br/>
 
@@ -26,14 +26,15 @@
 
 ### 🟢 About Me
 
-I'm an undergraduate **BS Information Technology** student at Rawalpindi Women University (CGPA: 3.72/4.0), focused on **Android & Flutter development**, with growing full-stack experience building **AI/LLM-integrated applications**. I build Firebase-integrated mobile apps end-to-end — from UI design to backend connectivity.
+I'm an undergraduate **BS Information Technology** student at Rawalpindi Women University (CGPA: 3.72/4.0), working across **AI/ML, data science, and mobile app development**. I build end-to-end machine learning pipelines, AI-integrated web tools, and Firebase-backed Flutter/Android apps — from data to model to deployed product.
 
-I've also shipped two live, deployed full-stack AI web tools from scratch: **FraudScope**, a privacy-first fraud detection tool for financial ledgers, and **Casefile**, an AI resume-intelligence platform (see below).
+I've shipped two live, full-stack AI web tools from scratch — **FraudScope** (fraud detection) and **Casefile** (AI resume intelligence) — and multiple ML pipelines on Kaggle covering classification, regression, and explainable AI (SHAP).
 
 I'm also the **first author** on an in-progress research paper applying One-Class SVM to cross-domain log anomaly detection.
 
 ```yaml
-Open To: Mobile/App Development internships, AI-integrated project work
+Currently: Flutter Developer Intern @ Tech4Edges · Android Developer Intern @ Sqrock IT Solutions
+Open To: AI/ML & Mobile Development opportunities, research collaborations
 ```
 
 ---
@@ -44,29 +45,38 @@ Open To: Mobile/App Development internships, AI-integrated project work
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=dart,python,cpp,cs,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,dart,cpp,cs,js&theme=dark" />
+
+<br/><br/>
+
+**AI / Machine Learning / Data Science**
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-0D9488?style=for-the-badge)
+![LLM APIs](https://img.shields.io/badge/LLM%20API%20Integration-Groq%20%7C%20Gemini-0D9488?style=for-the-badge)
 
 <br/><br/>
 
 **Mobile & Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,html,css&theme=dark" />
 
 <br/><br/>
 
-**Backend, Data & AI**
+**Backend & Data Storage**
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,firebase,sqlite,mysql&theme=dark" />
-<br/>
-![LLM APIs](https://img.shields.io/badge/LLM%20API%20Integration-Groq%20%7C%20Gemini-0D9488?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 <br/><br/>
 
 **Tools & Deployment**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,render&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma&theme=dark" />
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -87,7 +97,7 @@ Open To: Mobile/App Development internships, AI-integrated project work
 
 ---
 
-### 🟢 Featured Projects
+### 🟢 Featured Projects — AI-Integrated Web Apps
 
 <details open>
 <summary><b>🔹 FraudScope — Privacy-First Fraud Detection Tool</b></summary>
@@ -122,6 +132,84 @@ A live, full-stack AI web app that scores a resume against any job description, 
 </details>
 
 <details>
+<summary><b>🔹 LLM Comparison Dashboard</b></summary>
+<br/>
+
+An interactive Streamlit dashboard comparing 70+ LLMs (GPT, Llama, Deepseek, Claude, Gemini, Mistral, and more) from 8 providers across speed, latency, context window, benchmark scores (MMLU, Chatbot Arena), pricing, and energy efficiency, through a fully filterable, tab-based interface.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, Streamlit, Pandas, Plotly |
+| Status | 🟢 Live |
+| Live Demo | [llm-comparison-dashboard.streamlit.app](https://llm-comparison-dashboard.streamlit.app/) |
+| Repository | [LLM-Comparison-dashboard](https://github.com/nayab-gull-it/LLM-Comparison-dashboard) |
+
+</details>
+
+---
+
+### 🟢 Featured Projects — Machine Learning & Data Science
+
+<details open>
+<summary><b>🔹 Student Grade & GPA Prediction</b></summary>
+<br/>
+
+End-to-end ML pipeline on student academic data — EDA, preprocessing, classification and regression modeling, plus SHAP explainability to interpret individual predictions.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, Pandas, Scikit-learn, SHAP, Matplotlib/Seaborn |
+| Results | 92.5% classification accuracy (Grade) · R² = 0.943 (GPA regression) |
+| Repository | [student-grade-gpa-prediction](https://github.com/nayab-gull-it/student-grade-gpa-prediction) |
+
+</details>
+
+<details>
+<summary><b>🔹 Traffic Flow Prediction</b></summary>
+<br/>
+
+Regression modeling to predict traffic flow from road type, day type, weather, and time, with hyperparameter tuning via GridSearchCV.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, Scikit-learn, GridSearchCV |
+| Results | R² = 0.986 (Gradient Boosting Regressor) |
+| Repository | [traffic-flow-prediction](https://github.com/nayab-gull-it/traffic-flow-prediction) |
+
+</details>
+
+<details>
+<summary><b>🔹 House Price Prediction</b></summary>
+<br/>
+
+EDA and regression modeling comparing Linear, Ridge, Lasso, Random Forest, and tuned Gradient Boosting.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, Scikit-learn, GridSearchCV |
+| Results | R² = 0.913 (tuned Gradient Boosting) |
+| Repository | [house-price-prediction-ml](https://github.com/nayab-gull-it/house-price-prediction-ml) |
+
+</details>
+
+<details>
+<summary><b>🔹 Netflix Content Analysis (EDA)</b></summary>
+<br/>
+
+Exploratory data analysis on Netflix's content catalog — content type trends, release patterns, and country-wise distribution.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, Pandas, Matplotlib, Seaborn |
+| Repository | [netflix-content-eda](https://github.com/nayab-gull-it/netflix-content-eda) |
+
+</details>
+
+---
+
+### 🟢 Featured Projects — Mobile Apps
+
+<details open>
 <summary><b>🔹 DreamScape — AI-Integrated Android App</b></summary>
 <br/>
 
@@ -129,7 +217,7 @@ An Android app that uses AI to interpret dream journal entries — built end-to-
 
 | Aspect | Detail |
 |---|---|
-| Stack | Flutter, Firebase, Gemini API |
+| Stack | Kotlin (native), Firebase, Gemini API, SQLite |
 | Architecture | Offline-first, SQLite-based |
 | Status | Built — Not Published |
 | Repository | Private |
@@ -140,12 +228,12 @@ An Android app that uses AI to interpret dream journal entries — built end-to-
 <summary><b>🔹 Smart Community Safety App</b></summary>
 <br/>
 
-A mobile application enabling real-time community safety through incident reporting and location-based alerts.
+A Flutter-based mobile app (academic semester project) promoting community safety through incident reporting, an interactive unsafe-zone map, community alerts, an SOS emergency mode, and an analytics dashboard of incident trends.
 
 | Aspect | Detail |
 |---|---|
-| Stack | Flutter, Firebase |
-| Features | Incident reporting, location-based alerts, user authentication, structured dashboard |
+| Stack | Flutter, Firebase (Auth + Firestore), Provider, Google Maps |
+| Features | Incident reporting, live safety map, SOS mode, analytics dashboard |
 | Repository | [smart-community-safety-app](https://github.com/nayab-gull-it/smart-community-safety-app) |
 
 </details>
@@ -166,6 +254,20 @@ A desktop-based system for managing pet inventory, customer records, billing, an
 ---
 
 ### 🟢 Experience
+
+**Flutter Developer Intern** — Tech4Edges
+*July 2026 – Present*
+
+`Flutter` `Mobile Development`
+
+<br/>
+
+**Android Developer Intern** — Sqrock IT Solutions
+*August 2026 – Present*
+
+`Android` `Kotlin`
+
+<br/>
 
 **Flutter App Internee** — Developers Corporation
 *Dec 2025 – Feb 2026*
@@ -209,13 +311,10 @@ Provided on-site technical and IT support during conference sessions and events.
 
 ### 🟢 Certifications
 
-**Coursera**
-
+![Microsoft](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Coursera](https://img.shields.io/badge/IT%20Support%20Professional%20Certificate-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
-
-**Kaggle**
-
 ![Kaggle](https://img.shields.io/badge/Data%20Visualization-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle%20Certification-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 ---
 
@@ -224,8 +323,9 @@ Provided on-site technical and IT support during conference sessions and events.
 ```yaml
 Learning: Backend/AI system design, Android development depth
 Building: DreamScape (AI-integrated Android app), research paper on log anomaly detection
-Shipped: FraudScope (privacy-first fraud detection tool) and Casefile (AI resume agent) — both live, deployed end-to-end
-Open To: Summer internships, AI-integrated project work
+Shipped: FraudScope, Casefile, LLM Comparison Dashboard — all live, deployed end-to-end
+Also Shipped: 4 Kaggle ML pipelines (classification, regression, EDA, SHAP explainability)
+Open To: AI/ML & Mobile Development internships, research collaborations
 ```
 
 ---
@@ -235,9 +335,9 @@ Open To: Summer internships, AI-integrated project work
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayabbbgull@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayab-gull-4a4795293)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayab-gull-it)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=netlify&logoColor=white)](https://nayab-gull-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayab-gull-4a4795293/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayabgulll964)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=netlify&logoColor=white)](https://nayabgull-portfolio.netlify.app/)
 
 </div>
 
